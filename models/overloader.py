@@ -1,6 +1,5 @@
 
 from functools import wraps
-
 def overload(func):
     @wraps(func)
     def wrapper(*args, **kargs):
