@@ -1,0 +1,12 @@
+/dataset/
+/data/
+/raw/
+/processed/
+/checkpoints/
+__pycache__/
+*.py[cod]
+*.pt
+*.pth
+.idea/
+.venv/
+.env
